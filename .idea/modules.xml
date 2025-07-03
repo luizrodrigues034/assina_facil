@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/assina_facil.iml" filepath="$PROJECT_DIR$/assina_facil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/assina_facil_android.iml" filepath="$PROJECT_DIR$/android/assina_facil_android.iml" />
+    </modules>
+  </component>
+</project>
